@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Alison Reynolds Brown",
+      "firstName": "Alison",
+      "lastName": "Reynolds Brown",
+      "profilePic": null,
+      "birthday": "1985-01-28"
+    },
+    {
+      "name": "Archibald Milton-Keynes Williams",
+      "firstName": "Archibald",
+      "lastName": "Milton-Keynes Williams",
+      "profilePic": "https://lorempixel.com/40/40/cats/",
+      "birthday": null
+    },
+    {
+      "name": "Lilly-May Milton-Keynes Richardson",
+      "firstName": "Lilly-May",
+      "lastName": "Milton-Keynes Richardson",
+      "profilePic": "https://lorempixel.com/g/200/200/people/portrait/",
+      "birthday": null
+    }
+  ]
+}
