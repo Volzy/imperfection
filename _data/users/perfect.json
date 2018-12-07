@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Alison Grey",
+      "firstName": "Alison",
+      "lastName": "Grey",
+      "profilePic": "https://lorempixel.com/200/200/people/portrait/",
+      "birthday": "2000-01-28"
+    },
+    {
+      "name": "Tom Best",
+      "firstName": "Tom",
+      "lastName": "Best",
+      "profilePic": "https://lorempixel.com/200/200/people/portrait/",
+      "birthday": "1985-10-11"
+    }
+  ]
+}
